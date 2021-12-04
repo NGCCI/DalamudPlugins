@@ -1,9 +1,9 @@
 # Dalamud Plugins
-Contains the repository JSON file for my Dalamud Plugins for third party plugin support in api4 (for Dalamud v6.0.0.0+).
+Contains the repository JSON file for my Dalamud Plugins for third party plugin support in api4 (for Dalamud before Endwalker).
 
 ## How to use
 
-**NOTE: Plugins in this repo are only for api4 / Dalamud v6.0.0.0+, if you're using the old Dalamud please check [this branch](https://github.com/Bluefissure/DalamudPlugins/tree/Bluefissure)**
+**NOTE: Plugins in this repo are only for api4, if you're using the Dalamud after Endwalker (or api5) please check [this branch](https://github.com/Bluefissure/DalamudPlugins/tree/Bluefissure)**
 
 * Access Dalamud's settings by typing `/xlsettings` in the chat window and pressing enter.
 * Click on the "Experimental" tab.
