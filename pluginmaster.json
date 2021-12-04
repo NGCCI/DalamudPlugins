@@ -76,7 +76,13 @@
     "RepoUrl": "https://github.com/Bluefissure/DalamudPlugins/tree/Bluefissure-api4/",
     "Tags": [
       "bluefissure",
-      "notification"
+      "notification",
+      "inviter",
+      "housingpos",
+      "doubleweaver",
+      "note",
+      "windowlocker",
+      "smartvote"
     ],
     "DalamudApiLevel": 5,
     "IsHide": "False",
