@@ -1,0 +1,13 @@
+{
+    "Name": "NotApi5",
+    "Author": "Bluefissure",
+    "Punchline": "If You are seeing this you're using a wrong third party repo.",
+    "Description": "You're using the third party of api4, please change it by clicking the earth icon below.",
+    "InternalName": "NotApi5",
+    "AssemblyVersion": "0.0.0.5",
+    "ApplicableVersion": "any",
+    "IconUrl": "https://vip2.loli.io/2021/12/05/besLk4wfEpuoYVh.png",
+    "RepoUrl": "https://github.com/Bluefissure/DalamudPlugins/tree/Bluefissure-api4/",
+    "Tags": ["bluefissure", "notification"],
+    "DalamudApiLevel": 5
+}
