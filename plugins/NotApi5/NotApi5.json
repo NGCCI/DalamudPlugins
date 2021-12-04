@@ -8,6 +8,6 @@
     "ApplicableVersion": "any",
     "IconUrl": "https://vip2.loli.io/2021/12/05/besLk4wfEpuoYVh.png",
     "RepoUrl": "https://github.com/Bluefissure/DalamudPlugins/tree/Bluefissure-api4/",
-    "Tags": ["bluefissure", "notification"],
+    "Tags": ["bluefissure", "notification", "inviter", "housingpos", "doubleweaver", "note", "windowlocker", "smartvote"],
     "DalamudApiLevel": 5
 }
